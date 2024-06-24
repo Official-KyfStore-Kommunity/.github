@@ -2,7 +2,7 @@
 
 ## Intro
 
-Hello, KyfStore lovers! I'm glad to see you here! Welcome to the official GitHub organization for KyfStore! My discord server is [Official KyfStore](https://discord.gg/cbV4nczSxH). Just answer a few questions about yourself and you're in!
+Hello, KyfStore lovers! I'm glad to see you here! Welcome to the official GitHub organization for KyfStore! My discord server is [Official KyfStore](https://discord.gg/uWGM8PQ2nQ). Just answer a few questions about yourself and you're in!
 
 ## Rules
 
